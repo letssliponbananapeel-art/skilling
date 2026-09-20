@@ -1,0 +1,587 @@
+{
+  "synthetic": true,
+  "events": [
+    {
+      "id": "synthetic-001",
+      "task_id": "scene-01",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-002",
+      "task_id": "scene-01",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-003",
+      "task_id": "scene-01",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-004",
+      "task_id": "scene-01",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-005",
+      "task_id": "scene-01",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-006",
+      "task_id": "scene-02",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-007",
+      "task_id": "scene-02",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-008",
+      "task_id": "scene-02",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-009",
+      "task_id": "scene-02",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-010",
+      "task_id": "scene-02",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-011",
+      "task_id": "scene-03",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-012",
+      "task_id": "scene-03",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-013",
+      "task_id": "scene-03",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-014",
+      "task_id": "scene-03",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-015",
+      "task_id": "scene-03",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-016",
+      "task_id": "scene-04",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-017",
+      "task_id": "scene-04",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-018",
+      "task_id": "scene-04",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-019",
+      "task_id": "scene-04",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-020",
+      "task_id": "scene-04",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-021",
+      "task_id": "scene-05",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-022",
+      "task_id": "scene-05",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-023",
+      "task_id": "scene-05",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-024",
+      "task_id": "scene-05",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-025",
+      "task_id": "scene-05",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-026",
+      "task_id": "scene-06",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-027",
+      "task_id": "scene-06",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-028",
+      "task_id": "scene-06",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-029",
+      "task_id": "scene-06",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-030",
+      "task_id": "scene-06",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-031",
+      "task_id": "scene-07",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-032",
+      "task_id": "scene-07",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-033",
+      "task_id": "scene-07",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-034",
+      "task_id": "scene-07",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-035",
+      "task_id": "scene-07",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-036",
+      "task_id": "scene-08",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-037",
+      "task_id": "scene-08",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-038",
+      "task_id": "scene-08",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-039",
+      "task_id": "scene-08",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-040",
+      "task_id": "scene-08",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "not_improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-041",
+      "task_id": "scene-09",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "not_improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-042",
+      "task_id": "scene-09",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "not_improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-043",
+      "task_id": "scene-09",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "not_improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-044",
+      "task_id": "scene-09",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "not_improved",
+      "signals": [
+        "Lighting"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-045",
+      "task_id": "scene-09",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Accept",
+      "outcome": "not_improved",
+      "signals": [
+        "Camera height"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-046",
+      "task_id": "scene-10",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Edit",
+      "outcome": "not_improved",
+      "signals": [
+        "Lens choice"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "synthetic-047",
+      "task_id": "scene-10",
+      "kind": "judgment",
+      "skill": "Visual Composition",
+      "action": "Reject",
+      "outcome": "not_improved",
+      "signals": [
+        "Subject separation"
+      ],
+      "outcome_basis": "Synthetic comparison against a predefined composition rubric; not a real user assessment."
+    },
+    {
+      "id": "preference-001",
+      "task_id": "scene-01",
+      "kind": "preference",
+      "skill": null,
+      "action": "Accept",
+      "outcome": "unknown",
+      "signals": [
+        "Likes blue"
+      ]
+    }
+  ],
+  "friction": {
+    "capability_gap": "verification",
+    "task_frequency": "high",
+    "failure_cost": "high",
+    "user_stress": "high",
+    "preference": "Human retains final creative approval"
+  }
+}
