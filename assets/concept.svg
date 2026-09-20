@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="660" viewBox="0 0 1280 660" role="img" aria-labelledby="title desc">
+<title id="title">SKILLING + BALANCING</title><desc id="desc">Discover human judgment strengths, confirm a skill candidate, and complement the human through AI roles. Similarity to complementarity.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#192e3b"/></linearGradient></defs>
+<rect width="1280" height="660" rx="24" fill="url(#bg)"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="64" y="74" font-size="17" letter-spacing="4" fill="#83dec7">HUMAN + AI / A COMPLEMENTARY TEAM</text>
+<text x="64" y="148" font-size="54" font-weight="700" fill="#fff">SKILLING + BALANCING</text>
+<text x="64" y="198" font-size="25" fill="#bccbdc">Discover human strengths. Grow into the missing half.</text>
+<rect x="64" y="244" width="536" height="269" rx="16" fill="#223349" stroke="#48617d"/>
+<text x="92" y="288" font-size="16" fill="#83dec7" letter-spacing="2">01 / SKILLING</text>
+<text x="92" y="332" font-size="29" fill="white" font-weight="700">What is the human good at?</text>
+<text x="92" y="378" font-size="20" fill="#d3ddea">Accept / Reject / Edit / Outcome</text>
+<text x="92" y="416" font-size="20" fill="#d3ddea">Evidence → Skill Candidate</text>
+<text x="92" y="474" font-size="18" fill="#83dec7">Register · Keep Observing · Reject</text>
+<rect x="632" y="244" width="584" height="269" rx="16" fill="#223b43" stroke="#46817c"/>
+<text x="660" y="288" font-size="16" fill="#83dec7" letter-spacing="2">02 / BALANCING</text>
+<text x="660" y="332" font-size="29" fill="white" font-weight="700">How can AI complement them?</text>
+<text x="660" y="378" font-size="20" fill="#d3ddea">User Skill Model + Task Friction</text>
+<text x="660" y="416" font-size="20" fill="#d3ddea">Roles · Agent Skills · Behavior</text>
+<text x="660" y="474" font-size="18" fill="#83dec7">Objective: USER + AI Team Coverage</text>
+<text x="64" y="584" font-size="31" fill="#fff">Similarity → Complementarity</text>
+<text x="64" y="623" font-size="16" fill="#a9bdd0">Public concept + minimal prototype / No validated skill or performance claims</text></g></svg>
