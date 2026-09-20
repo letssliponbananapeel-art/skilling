@@ -57,6 +57,11 @@ Camera height / Lens choice / Subject separation / Lighting
 
 ## Relationship Triangle
 
+![USER / AI / TASK-WORLD Relationship Triangle](assets/relationship-triangle.svg)
+
+<details>
+<summary>Editable Mermaid source</summary>
+
 ```mermaid
 flowchart TB
     U[USER: 能力・意図・好み]
@@ -66,6 +71,8 @@ flowchart TB
     U <-->|判断と成果の根拠| T
     A <-->|実行と検証| T
 ```
+
+</details>
 
 TASK-WORLDの成果を確認することで、単なる同意と改善を区別します。「青が好き」はPreferenceであり、構図の能力とは数えません。デモでも好みのイベント1件を47件のEvidenceから除外しています。ストレスは本人が伝える情報とし、文体から診断しません。
 

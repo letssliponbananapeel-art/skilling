@@ -63,6 +63,9 @@ On Windows, use `py -3` if `python3` is unavailable. `--decision observe` means 
 
 Observe **Accept / Reject / Edit / Outcome** during joint work. Look for repeatable judgment ability and tacit knowledge, including abilities the user has not explicitly described. Show **Evidence / Successful / Confidence / Frequent signals**, then let the person **Register / Keep Observing / Reject**.
 
+<details>
+<summary>Editable Mermaid source</summary>
+
 ```mermaid
 flowchart LR
     Work[Human-AI collaboration] --> Signals[Accept / Reject / Edit / Outcome]
@@ -74,6 +77,8 @@ flowchart LR
     Model --> Balance[BALANCING]
 ```
 
+</details>
+
 **Preference stays separate:** “I like blue” is not evidence of composition expertise. A correction that improves a specified outcome may be evidence, but needs repetition and context. The demo filters an explicit preference event out of the evidence count.
 
 ## BALANCING: complement the human
@@ -84,6 +89,11 @@ The human can keep a preferred task even when the AI can perform it. Stress is s
 
 ### The Relationship Triangle
 
+![USER / AI / TASK-WORLD Relationship Triangle](assets/relationship-triangle.svg)
+
+<details>
+<summary>Editable Mermaid source</summary>
+
 ```mermaid
 flowchart TB
     U[USER: strengths, intent, preferences]
@@ -93,6 +103,8 @@ flowchart TB
     U <-->|judgment and outcome evidence| T
     A <-->|execution and verification| T
 ```
+
+</details>
 
 The task-world provides the outcome anchor. Agreeing with the user is not enough to show improvement.
 
